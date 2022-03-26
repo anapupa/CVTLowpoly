@@ -30,6 +30,12 @@ V, F, _sharp_image = CVTLowpoly.lowpoly_mesh(img)
 lowpoly_img, V, F, FColor = CVTLowpoly.lowpoly_image(img)
 ```
 
+## Related Repo
+[Image Stippling](https://github.com/xiconxi/ImageStippling)
+
+[Semi-Isotropic Triangular Image Lowpoly](https://github.com/xiconxi/isotropic-lowpoly)
+
+
 ## Results
 
 - Case 1: Source Image: 550x825(pixels: 453750), 1% sites
